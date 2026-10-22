@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dl1ggmd53dbca"
-path="res://.godot/imported/lantern.apple-touch-icon.png-d32cd32efaeeaae1e707ab56ee59f743.ctex"
+uid="uid://dhq33gv7xjceo"
+path="res://.godot/imported/index.icon.png-c323109532343e2610f60f6d792da665.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Game/lantern/lantern.apple-touch-icon.png"
-dest_files=["res://.godot/imported/lantern.apple-touch-icon.png-d32cd32efaeeaae1e707ab56ee59f743.ctex"]
+source_file="res://Game/lantern/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-c323109532343e2610f60f6d792da665.ctex"]
 
 [params]
 
